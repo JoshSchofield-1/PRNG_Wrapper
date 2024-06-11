@@ -1,5 +1,5 @@
 [package]
-name = "py_in_rust"
+name = "PRNG_Wrapper"
 version = "0.1.0"
 edition = "2021"
 
